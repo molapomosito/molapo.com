@@ -1,0 +1,76 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav ul li{
+    margin: 5px;
+    background-color:white;
+    border-radius: 16rem;
+    font-style: bold;
+
+}
+h1{
+    text-shadow: 5px 5px 5px;
+    font-style: bold;
+}
+nav a{
+    text-decoration: none;
+}
+.about{
+    display: flex;
+    padding-left: 30%;
+    padding-right: 30%;
+ 
+}
+section article{
+    margin: 5px;
+}
+nav li:hover{
+background-color:rgb(8, 8, 7);
+    border-radius: 100px;
+}
+
+body{
+    background-color: rgb(143, 228, 234);
+}
+h2{
+    text-align: center;
+
+}
+.services{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cta:hover{
+    background-color: blue;
+
+}
+h4{
+    justify-content: space-evenly;
+}
+.ahaa{
+
+    justify-content: space-between;
+}
+h5{
+
+    text-decoration: underline;
+}
+
+.melato{
+    background-color: azure;
+    width: 10%;
+}
+.mahlanya{
+border-radius: 50%;
+margin: 0;
+
+}
+.sefuba{
+
+    text-shadow: 5px 5px 5px;
+}
